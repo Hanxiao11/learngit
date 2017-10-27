@@ -1,4 +1,9 @@
 hellojava
 hello world
 i like learning java
+<<<<<<< HEAD
 create a new branck is simple
+=======
+create a new branch is quick and simple
+>>>>>>> han1
+create a new branch is quick and simples
